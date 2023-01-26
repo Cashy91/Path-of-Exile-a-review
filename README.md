@@ -16,4 +16,40 @@
 
 3. Features
 
-* 
+* Header 1: Gives a clear explanation for what the website is about.
+
+* Navigation-bar: Gives the user a easy way to navigate the website.
+
+* Main-image: Indicates even more what to expect from the website.
+
+* Section 1: Gives an overview about some of the main features of the game.
+
+* Header 2: Describes the league system and what the current league is.
+
+* Media player: Plays the current league trailer.
+
+* Social links: Gives links to, Path of Exile homepage, Twitter, Facebook and Youtube.
+
+* Deepdive Header 1: Gives the user info about what will be presented in this section of the wesite.
+
+* Class image: Gives the user a visual indication what will be included in the deepdive.
+
+* Header 2 part1: Gives information about the class system i Path of Exile.
+
+* Header 2 part2: Informes the viewer about the acendancy system.
+
+* Header 2 part3: Goes over the currency and crafting system of the game.
+
+* Gallery header: Indicates what will be presented an the current page.
+
+* Images: Gives several images of the game from several views.
+
+4. Future Features:
+
+* A forum section where people can post topics they want information about.
+
+* A signup section where users enter information to give them access to the forum section.
+
+* A guide section where people can get help in larger areas of the game.
+
+5. 

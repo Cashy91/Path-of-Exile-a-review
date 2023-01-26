@@ -52,4 +52,11 @@
 
 * A guide section where people can get help in larger areas of the game.
 
-5. 
+5. * color name="Raw Umber" hex="7E643E" r="126" g="100" b="62" 
+   * color name="Smoky Black" hex="12100E" r="18" g="16" b="14" 
+   * color name="Old Lace" hex="F8F2E5" r="248" g="242" b="229" 
+
+Text: Lucida Console, Sans-serif
+
+6. 
+  

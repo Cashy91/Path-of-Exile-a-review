@@ -58,6 +58,6 @@
 
 Text: Lucida Console, Sans-serif
 
-6. <link rel="wireframes" href="assets/wireframes.pdf">
+6. Link to wireframes...
 
   

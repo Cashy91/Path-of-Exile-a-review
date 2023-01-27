@@ -58,6 +58,6 @@
 
 Text: Lucida Console, Sans-serif
 
-6. Link to wireframes...
+6. 
 
   

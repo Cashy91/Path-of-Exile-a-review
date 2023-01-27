@@ -11,7 +11,7 @@ body {
     color: #12100E;
 }
 
-/* Header and first section rules*/
+/* header and menu rules*/
 
 h1 {
     color: #12100E;
@@ -28,6 +28,7 @@ h1 {
 
 #menu {
     font-size: 120%;
+    text-transform: uppercase;
     letter-spacing: 2px;
     float: right;
     padding-right: 20px;
@@ -48,4 +49,25 @@ h1 {
 #menu a {
     text-decoration: none;
     color: inherit;
+}
+
+.active {
+    border-bottom: 1px solid #12100E;
+}
+
+/* main image */
+
+#main-outer-image {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+#main-image {
+    height: 800px;
+    width: 100%;
+    background: url('../images/Path-of-Exile-Featured-Image2.jpg') no-repeat center center;
+    
+
 }

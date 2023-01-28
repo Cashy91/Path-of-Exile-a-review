@@ -124,3 +124,7 @@ footer {
         margin-top: 50px;
         
       }
+
+      footer i {
+        color: #F8F2E5;
+      }

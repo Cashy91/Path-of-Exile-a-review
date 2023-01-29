@@ -133,8 +133,24 @@ ul {
     display: inline-flex;
     gap: 100px;
 }
+/* Deepdive header*/
 
-/* Deepdive html page*/
+#class-image {
+    padding-top: 55%;
+    background-size: cover;
+    width: 100%;
+    background: url('../images/image-classes1.png') no-repeat center center;
+}
+/* Deepdive text*/
+
+.deepdive-text {
+    font-size: 115%;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 50px;
+    letter-spacing: 1px; 
+}
 
 
 

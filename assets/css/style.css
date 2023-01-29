@@ -143,12 +143,22 @@ ul {
 }
 /* Deepdive text*/
 
+.headline {
+    font-size: 180%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 .deepdive-text {
     font-size: 115%;
     text-align: center;
     padding-left: 10%;
     padding-right: 10%;
     padding-bottom: 50px;
+    padding-top: 50px;
     letter-spacing: 1px; 
 }
 

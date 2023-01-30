@@ -165,5 +165,24 @@ ul {
         color:#7E643E;      
 }
 
+/* Gallery */
+
+.header-height {
+    height: 100px;
+}
+
+.gallery-images {
+    display: flex;
+    
+}
+
+.fotos-gallery i {
+    flex: 33.33%;
+    padding: 5px;
+    
+}
+
+
+
 
 

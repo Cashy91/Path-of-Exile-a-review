@@ -19,10 +19,6 @@ header {
     flex-wrap: wrap;
 }
 
-.logo-container {
-    
-}
-
 .logo-link {
     text-decoration: none;
 }
@@ -137,9 +133,6 @@ footer li {
     padding: 10px;
 }
 
-/* Deepdive header*/
-
-
 /* Deepdive text*/
 
 h2 {
@@ -150,20 +143,10 @@ h2 {
     padding: 40px 20px 10px 20px;
 }
  
-/* Gallery */
+/* Sign-up form */
 
 .header-height {
     height: 100px;
-}
-
-.gallery-images {
-    display: flex;
-    
-}
-
-.fotos-gallery i {
-    flex: 33.33%;
-    padding: 5px; 
 }
 
 @media (max-width: 991px){
@@ -182,6 +165,9 @@ h2 {
     }
 }
 
+.container {
+    
+}
 
 
 

@@ -61,11 +61,11 @@ nav {
 #main-image, #class-image {
     padding-top: 55%;
     width: 100%;
-    background: url('../images/Path-of-Exile-Featured-Image2.jpg') no-repeat center center; 
+    background: url('../images/Path-of-Exile-Featured-Image.jpg') no-repeat center center; 
     background-size: cover;
 }
 #class-image {
-    background-image: url('../images/image-classes1.png');
+    background-image: url('../images/image-classes.png');
 }
 /* Overview */
 
@@ -165,9 +165,19 @@ h2 {
     }
 }
 
-.container {
-    
+.sign-form {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin: auto; 
 }
 
+label {
+    padding: 10px 0;
+}
 
+button {
+    margin-top: 10px;
+    background-color: #7E643E;
+}
 

@@ -100,7 +100,7 @@ p {
         display: block;
         content: "";
         padding-top: 56.25%; 
-    }
+}
 
 .trailer iframe{
       position: absolute;
@@ -108,8 +108,7 @@ p {
       left: 0;
       width: 100%;
       height: 100%;
-      }
-
+}
       /* Footer */
 
 footer {  
@@ -117,12 +116,12 @@ footer {
         text-align: center;
         padding-top: 50px;
         padding-bottom: 20px;
-      }
+}
 
       footer i {
         color: #12100E; 
         font-size: 200%;
-      }
+}
 footer ul {
     display: flex;
     justify-content: center;
@@ -132,7 +131,6 @@ footer li {
     list-style: none;
     padding: 10px;
 }
-
 /* Deepdive text*/
 
 h2 {
@@ -142,7 +140,6 @@ h2 {
     text-align: center;
     padding: 40px 20px 10px 20px;
 }
- 
 /* Sign-up form */
 
 .header-height {
@@ -156,9 +153,11 @@ h2 {
     }
     nav {
         margin: 0 auto;
+        padding-top: 20px;
     }
     #menu li {
         padding: 10px;
+        font-size: 14px;
     }
     .p-top {
         padding-top: 0;
@@ -166,18 +165,26 @@ h2 {
 }
 
 .sign-form {
-    font-size: 20px;
+    font-size: 15px;
     display: flex;
     justify-content: center;
-    margin: auto; 
+    margin: auto;
+    padding: 10px;
 }
 
 label {
-    padding: 10px 0;
+    padding: 20px 0 5px 0 !important;
 }
 
 button {
-    margin-top: 10px;
-    background-color: #7E643E;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto; 
+    background: #12100E;
+    color: #F8F2E5;
+    padding: 10px 20px;
+    cursor: pointer;
+    
 }
 

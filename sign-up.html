@@ -7,6 +7,7 @@
     <title>Sign-up</title>
 
     <link rel="stylesheet" href="assets/css/style.css">
+    
 </head>
 <body>
     <header>
@@ -24,25 +25,24 @@
                     <a href="deepdive.html">Deepdive</a>
                 </li>
                 <li>
-                    <a href="sign-up.html" class="active">Sign-up</a>
-                </li>
-                
+                    <a href="sign-up.html" class="active">Sign up</a>
+                </li> 
             </ul>
         </nav>
  </header>  
- <form action="https://formdump.codeinstitute.net">
+ <form action="https://formdump.codeinstitute.net" method="POST">
     <div>
         <h2>
             Sign Up 
         </h2>
         <label for="fname" class="sign-form">First Name</label>
-        <input type="text" class="sign-form" required>
+        <input type="text" name="firstname" class="sign-form" required>
         <label for="lname" class="sign-form">Last Name</label>
-        <input type="text" class="sign-form" required>
+        <input type="text" name="lastname" class="sign-form" required>
         <label for="email" class="sign-form">Email</label>
-        <input type="email" class="sign-form" required>
+        <input type="email" name="email" class="sign-form" required>
         
-        <button type="submit" class="sign-form">Sign Up</button>
+        <button type="submit">Sign Up</button>
     </div>
 
  </form>

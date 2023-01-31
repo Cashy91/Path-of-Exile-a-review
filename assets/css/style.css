@@ -169,6 +169,7 @@ h2 {
 @media (max-width: 991px){
     .logo-container {
         margin: auto;
+        text-align: center;
     }
     nav {
         margin: 0 auto;

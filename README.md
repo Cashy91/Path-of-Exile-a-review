@@ -67,7 +67,9 @@
    * Text: Lucida Console, Sans-serif
 
 
-6. <br> ![screenshots of wireframe:](./readme-images/pathofexileframework1.png) 
+6. Wireframes from the planning. Changed alot along the way to implement a sign up form instead of the gallery page beeing the main change.
+
+<br> ![screenshots of wireframe:](./readme-images/pathofexileframework1.png) 
 - ![screenshots of wireframe:](./readme-images/pathofexileframwork2.png)
 - ![screenshots of wireframe:](./readme-images/pathofexileframwork3.png)
 - ![screenshots of wireframe:](./readme-images/pathofexileframwork4.png)

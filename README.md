@@ -73,16 +73,16 @@
 
 <h1>6. Wireframes from the planning.</h1>
 
- Changed alot along the way to implement a sign up form instead of the gallery page beeing the main change.
+ This frames was used as guidelines for the website. Some minor changes was made.
 
-![screenshots of wireframe:](./readme-images/pathofexileframework1.png) 
-![screenshots of wireframe:](./readme-images/pathofexileframwork2.png)
-![screenshots of wireframe:](./readme-images/pathofexileframwork3.png)
-![screenshots of wireframe:](./readme-images/pathofexileframwork4.png)
-![screenshots of wireframe:](./readme-images/pathofexileframwork5.png)
-![screenshots of wireframe:](./readme-images/pathofexileframwork6.png)
-![screenshots of wireframe:](./readme-images/pathofexileframwork7.png)
-![screenshots of wireframe:](./readme-images/pathofexileframwork8.png)
+![screenshots of wireframe:](./readme-images/Frame1.png) 
+![screenshots of wireframe:](./readme-images/Frame2.png)
+![screenshots of wireframe:](./readme-images/Frame3.png)
+![screenshots of wireframe:](./readme-images/Frame4.png)
+![screenshots of wireframe:](./readme-images/Frame5.png)
+![screenshots of wireframe:](./readme-images/Frame6.png)
+![screenshots of wireframe:](./readme-images/Frame7.png)
+
 
 <h1>7.  Tech Used </h1> 
 

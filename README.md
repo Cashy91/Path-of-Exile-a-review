@@ -93,7 +93,7 @@
 * Balsamic wireframes for project planning.
 
 <h1>8. Testing:</h1> 
-Code validation html https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F
+Code validation html https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F <br>
 code validation css https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#warnings<br>
 <br>
 
@@ -126,7 +126,7 @@ code validation css https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2
     4. User should see the sign up form below the navbar in the middle of the page, it should have three insert fields.
     5. User should see a footer bar below the sign up form.
 
-    
+
 
 
           

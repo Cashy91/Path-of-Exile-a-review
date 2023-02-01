@@ -52,7 +52,7 @@
    * Text: Lucida Console, Sans-serif
 
 
-6. - ![screenshots of wireframe:](./readme-images/pathofexileframework1.png) 
+6. <br> ![screenshots of wireframe:](./readme-images/pathofexileframework1.png) 
 - ![screenshots of wireframe:](./readme-images/pathofexileframwork2.png)
 - ![screenshots of wireframe:](./readme-images/pathofexileframwork3.png)
 - ![screenshots of wireframe:](./readme-images/pathofexileframwork4.png)
@@ -63,20 +63,20 @@
 
 7.  Tech used: html, css, github, gitpod.
 
-8. Testing: - code validation html <https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F>
+8. Testing: - code validation html <https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F> <br>
             - code validation css <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#warnings>
 
    cases:   - 
 
-   buggs fixed: - 
+   buggs fixed: - none found
 
    supported screens and browsers: -  screens used: Iphone SE, Ipad air and 4-K in Google Chrome, Microsoft Edge and Mozrilla Firefox
 
-9. Deployment:   Gitpod: 
+9. Deployment:    - Gitpod 
 
-               - Github: 
+                  - Github
 
-10. * Credits:   <https://fontawesome.com/> 
+10. * Credits:   <https://fontawesome.com/> <br>
                - <https://wall.alphacoders.com/by_sub_category.php?id=228645&name=Path+Of+Exile+Wallpapers>   
 
                Also big credit to my mentor that helped me through this process!        

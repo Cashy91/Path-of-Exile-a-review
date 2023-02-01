@@ -1,3 +1,5 @@
+![screenshots of the index on multiple screen sizes:](./readme-images/multiscreen.png)
+
 1. Purpose of project
 
 * Adding a good way for gamers to find information about a potential new game.

@@ -58,7 +58,9 @@
 
 * A guide section where people can get help in larger areas of the game.
 
-5. * color name="Raw Umber" hex="7E643E" r="126" g="100" b="62" 
+5. Typography and color scheme:
+
+   * color name="Raw Umber" hex="7E643E" r="126" g="100" b="62" 
 
    * color name="Smoky Black" hex="12100E" r="18" g="16" b="14" 
 
@@ -78,7 +80,7 @@
 - ![screenshots of wireframe:](./readme-images/pathofexileframwork7.png)
 - ![screenshots of wireframe:](./readme-images/pathofexileframwork8.png)
 
-7.  Tech used: html, css, github, gitpod.
+7.  Tech used: html, css, javascript, github, gitpod and balsamic wireframes.
 
 8. Testing: - code validation html <https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F> <br>
             - code validation css <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#warnings>

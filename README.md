@@ -1,6 +1,6 @@
-![screenshots of the index on multiple screen sizes:](./readme-images/multiscreen.png)
+<h1>1. Purpose of project</h1>
 
-1. Purpose of project
+![screenshots of the index on multiple screen sizes:](./readme-images/multiscreen.png)
 
 * Adding a good way for gamers to find information about a potential new game.
 
@@ -10,7 +10,7 @@
 
 * Getting more people intrerested in the game to grow the community.
 
-2. User Stories
+<h1>2. User Stories</h1>
 
 * As a visiting viewer want to see if Path of Exile is a game for me.
 
@@ -23,13 +23,13 @@
 * As a visitor I would like to be able to use my mobile when visiting the site.
 
 
-3. Features
+<h1>3. Features </h1>
 
 * Header : Gives a clear explanation for what the website is about.
  ![screenshots of the header:](./readme-images/header-image.png)
 
 * Navigation-bar: Gives the user a easy way to navigate the website.
-- ![screenshots of navbar:](./readme-images/navbar.png)
+![screenshots of navbar:](./readme-images/navbar.png)
 
 * Main-image: Shows the name of the game thats beeing reviewed.
 ![screenshots of overviewimage:](./readme-images/Path-of-Exile-overview-Image.jpg)
@@ -52,7 +52,7 @@
 * Sign-up form: Gives the user the chance to sign up to the webpage.
 ![screenshots of deepdive-section:](./readme-images/signup-image.png)
 
-4. Future Features:
+<h1>4. Future Features:</h1>
 
 * A forum section where people can post topics they want information about.
 
@@ -60,7 +60,7 @@
 
 * A guide section where people can get help in larger areas of the game.
 
-5. Typography and color scheme:
+<h1>5. Typography and color scheme:</h1>
 
    * color name="Raw Umber" hex="7E643E" r="126" g="100" b="62" 
 
@@ -71,21 +71,26 @@
    * Text: Lucida Console, Sans-serif
 
 
-6. Wireframes from the planning. Changed alot along the way to implement a sign up form instead of the gallery page beeing the main change.
+<h1>6. Wireframes from the planning.</h1>
 
-<br> ![screenshots of wireframe:](./readme-images/pathofexileframework1.png) 
-- ![screenshots of wireframe:](./readme-images/pathofexileframwork2.png)
-- ![screenshots of wireframe:](./readme-images/pathofexileframwork3.png)
-- ![screenshots of wireframe:](./readme-images/pathofexileframwork4.png)
-- ![screenshots of wireframe:](./readme-images/pathofexileframwork5.png)
-- ![screenshots of wireframe:](./readme-images/pathofexileframwork6.png)
-- ![screenshots of wireframe:](./readme-images/pathofexileframwork7.png)
-- ![screenshots of wireframe:](./readme-images/pathofexileframwork8.png)
+ Changed alot along the way to implement a sign up form instead of the gallery page beeing the main change.
 
-7.  Tech used: html, css, javascript, github, gitpod and balsamic wireframes.
+![screenshots of wireframe:](./readme-images/pathofexileframework1.png) 
+![screenshots of wireframe:](./readme-images/pathofexileframwork2.png)
+![screenshots of wireframe:](./readme-images/pathofexileframwork3.png)
+![screenshots of wireframe:](./readme-images/pathofexileframwork4.png)
+![screenshots of wireframe:](./readme-images/pathofexileframwork5.png)
+![screenshots of wireframe:](./readme-images/pathofexileframwork6.png)
+![screenshots of wireframe:](./readme-images/pathofexileframwork7.png)
+![screenshots of wireframe:](./readme-images/pathofexileframwork8.png)
 
-8. Testing: - code validation html <https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F> <br>
-            - code validation css <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#warnings>
+<h1>7.  Tech Used </h1> 
+
+html, css, javascript, github, gitpod and balsamic wireframes.
+
+<h1>8. Testing:</h1> 
+Code validation html <https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F> <br>
+code validation css <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#warnings>
 
    cases:   - 
 
@@ -95,7 +100,7 @@
 
    Iphone SE, Ipad air and 4-K in Google Chrome, Microsoft Edge and Mozrilla Firefox
 
-9. Deployment 
+<h1>9. Deployment</h1> 
 
 - The page was deployed through github-pages.
 The first step navigate to the repository and select settings.<br>
@@ -108,7 +113,7 @@ The first step navigate to the repository and select settings.<br>
 
                   
 
-10. * Credits:   Footer icons taken from: <https://fontawesome.com/> <br>
+<h1>10. Credits</h1>   Footer icons taken from: <https://fontawesome.com/> <br>
                Background image for the index.html taken from: <https://wall.alphacoders.com/by_sub_category.php?id=228645&name=Path+Of+Exile+Wallpapers>
             
             

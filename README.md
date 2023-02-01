@@ -12,7 +12,7 @@
 
 <h1>2. User Stories</h1>
 
-* As a visiting viewer want to see if Path of Exile is a game for me.
+* As a visiting viewer I want to see if Path of Exile is a game for me.
 
 * As a visiting viewer I would like to know if this game can be played together with my friends.
 
@@ -86,19 +86,56 @@
 
 <h1>7.  Tech Used </h1> 
 
-html, css, javascript, github, gitpod and balsamic wireframes.
+* Html for coding
+* Css for styling 
+* Javascript for footer
+* Github to deploy, Gitpod 
+* Balsamic wireframes for project planning.
 
 <h1>8. Testing:</h1> 
-Code validation html https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F <br>
-code validation css https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#warnings
+Code validation html https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F
+code validation css https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#warnings<br>
+<br>
 
-   cases:   - 
+ Cases: 
 
-   buggs fixed: - none found
+   * Overview: 
+   
+    1. Click on overview on the navbar. 
+    2. User will be navigated to overview page.
+    3. User should notice navbar to the top right.
+    4. User should notice hero image under the navbar.
+    5. User should notice overview text under hero image.
+    6. User should notice trailer of the game under overview text.
+    7. User should notice the footer bar with social icons at the bottom.
+
+   * Deepdive:
+
+    1. Click on Deepdive on the navbar.
+    2. User will be navigared to the deepdive page.
+    3. User should notice navbar to the top right. 
+    4. User should see a class image under the navbar.
+    5. User should see a deepdive section with three text blocks named The class system, The Ascendany system and The currency & crafting system. They shall all be centrally aligned.
+    6. User should see a footer at the bottom of the page.
+
+   * Sign Up:
+
+    1. Click on Sign up in the navbar.
+    2. User will be navigated to the Sign up page.
+    3. User should see the navbar to the top right.
+    4. User should see the sign up form below the navbar in the middle of the page, it should have three insert fields.
+    5. User should see a footer bar below the sign up form.
+
+    
+
+
+          
+
+   Buggs fixed: - none found
 
    Supported screens and browsers: 
 
-   Iphone SE, Ipad air and 4-K in Google Chrome, Microsoft Edge and Mozrilla Firefox
+   Tested in Google Chrome Development tools for Iphone SE, Ipad air and 4-K <br> Normal functions tested in Microsoft Edge and Mozrilla Firefox.
 
 <h1>9. Deployment</h1> 
 

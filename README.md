@@ -1,16 +1,24 @@
 1. Purpose of project
 
 * Adding a good way for gamers to find information about a potential new game.
+
 * With including images getting people a better idea how the game looks.
+
 * With the deepdive section give a better understanding for different parts of the game.
+
 * Getting more people intrerested in the game to grow the community.
 
 2. User Stories
 
 * As a visiting viewer want to see if Path of Exile is a game for me.
+
 * As a visiting viewer I would like to know if this game can be played together with my friends.
+
 * As a visiting viewer I want to get information about the games different mechanics for better understanding.
+
 * As a visiting viewer I would like to be able to sign up for more news about the game.
+
+* As a visitor I would like to be able to use my mobile when visiting the site.
 
 
 3. Features
@@ -46,7 +54,9 @@
 * A guide section where people can get help in larger areas of the game.
 
 5. * color name="Raw Umber" hex="7E643E" r="126" g="100" b="62" 
+
    * color name="Smoky Black" hex="12100E" r="18" g="16" b="14" 
+
    * color name="Old Lace" hex="F8F2E5" r="248" g="242" b="229" 
 
    * Text: Lucida Console, Sans-serif
@@ -70,7 +80,9 @@
 
    buggs fixed: - none found
 
-   supported screens and browsers: -  screens used: Iphone SE, Ipad air and 4-K in Google Chrome, Microsoft Edge and Mozrilla Firefox
+   Supported screens and browsers: 
+    
+   Iphone SE, Ipad air and 4-K in Google Chrome, Microsoft Edge and Mozrilla Firefox
 
 9. Deployment:    - Gitpod 
 

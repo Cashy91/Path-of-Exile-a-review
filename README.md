@@ -89,8 +89,8 @@
 html, css, javascript, github, gitpod and balsamic wireframes.
 
 <h1>8. Testing:</h1> 
-Code validation html <https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F> <br>
-code validation css <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#warnings>
+Code validation html https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F <br>
+code validation css https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv#warnings
 
    cases:   - 
 
@@ -113,11 +113,13 @@ The first step navigate to the repository and select settings.<br>
 
                   
 
-<h1>10. Credits</h1>   Footer icons taken from: <https://fontawesome.com/> <br>
-               Background image for the index.html taken from: <https://wall.alphacoders.com/by_sub_category.php?id=228645&name=Path+Of+Exile+Wallpapers>
+<h1>10. Credits</h1>   
+Footer icons taken from: https://fontawesome.com <br> 
+Background image for the index.html taken from: https://wall.alphacoders.com/by_sub_category.php?id=228645&name=Path+Of+Exile+Wallpapers
+
+               
             
-            
-               Also big credit to my mentor that helped me through this process!        
+         Also big credit to my mentor that helped me through this process!        
 
 
                                                     

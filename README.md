@@ -7,16 +7,15 @@
 
 2. User Stories
 
-* I want to see if Path of Exile is a game for me.
-* I am looking for a new game for me and my friends to play together.
-* I want to get a better understanding of what this game offers.
-* I want to see if the graphics of the game is better then the standard.
-* I need it to be easy to navigate around the website.
-* I need to see who have done this site so i can look them up for other work.
+* As a visiting viewer want to see if Path of Exile is a game for me.
+* As a visiting viewer I would like to know if this game can be played together with my friends.
+* As a visiting viewer I want to get information about the games different mechanics for better understanding.
+* As a visiting viewer I would like to be able to sign up for more news about the game.
+
 
 3. Features
 
-* Header 1: Gives a clear explanation for what the website is about.
+* Header : Gives a clear explanation for what the website is about.
 
 * Navigation-bar: Gives the user a easy way to navigate the website.
 
@@ -24,25 +23,19 @@
 
 * Section 1: Gives an overview about some of the main features of the game.
 
-* Header 2: Describes the league system and what the current league is.
-
 * Media player: Plays the current league trailer.
 
-* Social links: Gives links to, Path of Exile homepage, Twitter, Facebook and Youtube.
-
-* Deepdive Header 1: Gives the user info about what will be presented in this section of the wesite.
+* Footer: Gives links to, Path of Exile homepage, Twitter, Facebook and Youtube.
 
 * Class image: Gives the user a visual indication what will be included in the deepdive.
 
-* Header 2 part1: Gives information about the class system i Path of Exile.
+* Header part1: Gives information about the class system i Path of Exile.
 
-* Header 2 part2: Informes the viewer about the acendancy system.
+* Header part2: Informes the viewer about the acendancy system.
 
-* Header 2 part3: Goes over the currency and crafting system of the game.
+* Header part3: Goes over the currency and crafting system of the game.
 
-* Gallery header: Indicates what will be presented an the current page.
-
-* Images: Gives several images of the game from several views.
+* Sign-up form: Gives the user the chance to sign up to the webpage.
 
 4. Future Features:
 
@@ -70,7 +63,7 @@
 
 7.  Tech used: html, css, github, gitpod.
 
-8. Testing: - code validation html <link https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F>
+8. Testing: - code validation html <https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F>
             - code validation css <link>
 
    cases:   - 
@@ -83,7 +76,10 @@
 
                - Github: 
 
-10. * Credits:                
+10. * Credits:   <https://fontawesome.com/> 
+               - <https://wall.alphacoders.com/by_sub_category.php?id=228645&name=Path+Of+Exile+Wallpapers>   
+
+               Also big credit to my mentor that helped me through this process!        
 
 
                                                     

@@ -56,8 +56,37 @@
    * color name="Smoky Black" hex="12100E" r="18" g="16" b="14" 
    * color name="Old Lace" hex="F8F2E5" r="248" g="242" b="229" 
 
-Text: Lucida Console, Sans-serif
+   * Text: Lucida Console, Sans-serif
 
-6. 
+
+6. - ![screenshots of wireframe:](./readme-images/pathofexileframework1.png) 
+- ![screenshots of wireframe:](./readme-images/pathofexileframwork2.png)
+- ![screenshots of wireframe:](./readme-images/pathofexileframwork3.png)
+- ![screenshots of wireframe:](./readme-images/pathofexileframwork4.png)
+- ![screenshots of wireframe:](./readme-images/pathofexileframwork5.png)
+- ![screenshots of wireframe:](./readme-images/pathofexileframwork6.png)
+- ![screenshots of wireframe:](./readme-images/pathofexileframwork7.png)
+- ![screenshots of wireframe:](./readme-images/pathofexileframwork8.png)
+
+7.  Tech used: html, css, github, gitpod.
+
+8. Testing: - code validation html <link https://validator.w3.org/nu/?doc=https%3A%2F%2Fcashy91.github.io%2FPath-of-Exile-a-review%2F>
+            - code validation css <link>
+
+   cases:   - 
+
+   buggs fixed: - 
+
+   supported screens and browsers: -  screens used: Iphone SE, Ipad air and 4-K in Google Chrome, Microsoft Edge and Mozrilla Firefox
+
+9. Deployment:   Gitpod: 
+
+               - Github: 
+
+10. * Credits:                
+
+
+                                                    
+
 
   

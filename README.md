@@ -81,12 +81,21 @@
    buggs fixed: - none found
 
    Supported screens and browsers: 
-    
+
    Iphone SE, Ipad air and 4-K in Google Chrome, Microsoft Edge and Mozrilla Firefox
 
-9. Deployment:    - Gitpod 
+9. Deployment 
 
-                  - Github
+- The page was deployed through github-pages.
+The first step navigate to the repository and select settings.<br>
+- Pick the page selector at the left. <br>
+- Choose main in the branch drop-down. <br>
+- When this is done a link will apear at the top giving you a direct link to the homepage.
+
+- A link to the page can be found here: <https://cashy91.github.io/Path-of-Exile-a-review/>
+
+
+                  
 
 10. * Credits:   <https://fontawesome.com/> <br>
                - <https://wall.alphacoders.com/by_sub_category.php?id=228645&name=Path+Of+Exile+Wallpapers>   

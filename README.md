@@ -24,26 +24,31 @@
 3. Features
 
 * Header : Gives a clear explanation for what the website is about.
+ ![screenshots of the header:](./readme-images/header-image.png)
 
 * Navigation-bar: Gives the user a easy way to navigate the website.
+- ![screenshots of navbar:](./readme-images/navbar.png)
 
-* Main-image: Indicates even more what to expect from the website.
+* Main-image: Shows the name of the game thats beeing reviewed.
+![screenshots of overviewimage:](./readme-images/Path-of-Exile-overview-Image.jpg)
 
 * Section 1: Gives an overview about some of the main features of the game.
+![screenshots of content:](./readme-images/Overview.png) 
 
 * Media player: Plays the current league trailer.
+![screenshots of mediaplayer:](./readme-images/Mediaplayer.png)
 
 * Footer: Gives links to, Path of Exile homepage, Twitter, Facebook and Youtube.
+![screenshots of mediaplayer:](./readme-images/footer.png)
 
-* Class image: Gives the user a visual indication what will be included in the deepdive.
+* Class image: Gives the user a visual indication what will be included in the deepdive and what characters might look like.
+![screenshots of deepdive-image:](./readme-images/deepdive-image.png)
 
-* Header part1: Gives information about the class system i Path of Exile.
-
-* Header part2: Informes the viewer about the acendancy system.
-
-* Header part3: Goes over the currency and crafting system of the game.
+* Deepdive section: Gives the viewer an indepth look into several part of the game.
+![screenshots of deepdive-section:](./readme-images/deepdive-text.png)
 
 * Sign-up form: Gives the user the chance to sign up to the webpage.
+![screenshots of deepdive-section:](./readme-images/signup-image.png)
 
 4. Future Features:
 
@@ -97,9 +102,10 @@ The first step navigate to the repository and select settings.<br>
 
                   
 
-10. * Credits:   <https://fontawesome.com/> <br>
-               - <https://wall.alphacoders.com/by_sub_category.php?id=228645&name=Path+Of+Exile+Wallpapers>   
-
+10. * Credits:   Footer icons taken from: <https://fontawesome.com/> <br>
+               Background image for the index.html taken from: <https://wall.alphacoders.com/by_sub_category.php?id=228645&name=Path+Of+Exile+Wallpapers>
+            
+            
                Also big credit to my mentor that helped me through this process!        
 
 
